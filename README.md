@@ -1,6 +1,5 @@
 
-## A simple MERN application to practice the MERN stack.
-The main purpose here is to practice the CRUD operations with MongoDB
+## A simple MERN application to practice the MERN stack.<br/>The main purpose here is to practice the CRUD operations with MongoDB
 
 ## Built With:
 
