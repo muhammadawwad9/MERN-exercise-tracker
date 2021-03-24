@@ -4,7 +4,7 @@
 ## Built With:
 
 ### Frontend:
-- ReactA simple MERN application to practice the MERN stack
+- React
 - Bootstrap
 
 ### Backend
